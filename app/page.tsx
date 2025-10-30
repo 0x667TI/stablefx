@@ -139,7 +139,7 @@ export default function Home() {
             
             <div className="flex items-center gap-4">
               <a 
-                href={`https://testnet.arcscan.net/address/0x0227Beb66D711fB8dB20A42f9fad2062a6Af84a3`}
+                href={`https://testnet.arcscan.app/address/0x0227Beb66D711fB8dB20A42f9fad2062a6Af84a3`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-blue-400 transition-colors text-sm"

@@ -389,7 +389,7 @@ export default function SwapCard() {
         {hash && (
           <div className="mt-4 text-center">
             <a
-              href={`https://testnet.arcscan.net/tx/${hash}`}
+              href={`https://testnet.arcscan.app/tx/${hash}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 text-blue-400 hover:text-blue-300 text-xs font-medium transition-colors"
