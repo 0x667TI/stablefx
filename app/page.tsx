@@ -139,7 +139,7 @@ export default function Home() {
             
             <div className="flex items-center gap-4">
               <a 
-                href={`https://testnet.arcscan.com/address/0xee5D3f70e4ED1BEc8862691d4c71A0909a322451`}
+                href={`https://testnet.arcscan.net/address/0x0227Beb66D711fB8dB20A42f9fad2062a6Af84a3`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
@@ -148,7 +148,7 @@ export default function Home() {
               </a>
               <span className="text-slate-700">•</span>
               <a 
-                href="https://arc.net"
+                href="https://arc.network"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-blue-400 transition-colors text-sm"
