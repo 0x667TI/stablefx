@@ -133,7 +133,7 @@ export default function Home() {
               <Logo className="w-8 h-8" />
               <div>
                 <div className="text-white font-semibold text-sm">StableFX</div>
-                <div className="text-slate-500 text-xs">Built for Arc Network Hackathon 2024</div>
+                <div className="text-slate-500 text-xs">Built for Arc Network Hackathon 2025</div>
               </div>
             </div>
             
@@ -160,7 +160,7 @@ export default function Home() {
           
           <div className="mt-6 text-center">
             <p className="font-mono text-xs text-slate-600">
-              Contract: <code className="text-blue-400/60">0xee5D...2451</code>
+              Contract: <code className="text-blue-400/60">0x0227...84a3</code>
             </p>
           </div>
         </footer>
